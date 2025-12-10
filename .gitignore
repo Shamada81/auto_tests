@@ -45,3 +45,6 @@ screenshots/
 test-results/
 allure-results/
 
+# APK files (large files)
+*.apk
+
