@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Web and Mobile Test Suite" parallel="false" verbose="1">
+    
+    <test name="Web Tests">
+        <classes>
+            <class name="tests.web.LentaRuWebTests"/>
+        </classes>
+    </test>
+    
+    <test name="Mobile Tests">
+        <classes>
+            <class name="tests.mobile.WikipediaMobileTests"/>
+        </classes>
+    </test>
+    
+</suite>
+
