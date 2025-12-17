@@ -136,6 +136,11 @@ chmod +x scripts/setup_mobile.sh
 ./scripts/setup_mobile.sh
 ```
 
+Если `setup_mobile.sh` не смог скачать APK:
+- попробуйте отдельный скрипт: `./scripts/download_wikipedia_apk.sh`;
+- или скачайте вручную с APKMirror: https://www.apkmirror.com/apk/wikipedia-foundation/wikipedia/ (universal, Android 6.0+) и положите файл в корень проекта как `wikipedia.apk`;
+- альтернатива: F-Droid https://f-droid.org/packages/org.wikipedia/.
+
 6. Настройте при необходимости переменные окружения:
 
 ```bash
