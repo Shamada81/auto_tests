@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-17T10:17:21 MSK" name="Surefire suite" finished-at="2025-12-17T10:36:39 MSK" duration-ms="1157318">
+    <groups>
+    </groups>
+    <test started-at="2025-12-17T10:17:21 MSK" name="Surefire test" finished-at="2025-12-17T10:36:39 MSK" duration-ms="1157318">
+      <class name="mobile.tests.WikipediaMobileTests">
+        <test-method is-config="true" signature="setUpMobileDriver()[pri:0, instance:mobile.tests.WikipediaMobileTests@23986957]" started-at="2025-12-17T10:17:21 MSK" name="setUpMobileDriver" finished-at="2025-12-17T10:17:47 MSK" duration-ms="25359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMobileDriver -->
+        <test-method signature="openArticleAndScroll_shouldKeepContentVisible()[pri:0, instance:mobile.tests.WikipediaMobileTests@23986957]" started-at="2025-12-17T10:17:47 MSK" name="openArticleAndScroll_shouldKeepContentVisible" description="Прокрутка статьи вниз и проверка, что контент доступен (scroll scenario)" finished-at="2025-12-17T10:21:18 MSK" duration-ms="211667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openArticleAndScroll_shouldKeepContentVisible -->
+        <test-method signature="searchAppiumArticle_shouldOpenCorrectPage()[pri:0, instance:mobile.tests.WikipediaMobileTests@23986957]" started-at="2025-12-17T10:21:18 MSK" name="searchAppiumArticle_shouldOpenCorrectPage" description="Поиск статьи &#039;Appium&#039; и проверка, что открыта корректная статья" finished-at="2025-12-17T10:31:16 MSK" duration-ms="597324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAppiumArticle_shouldOpenCorrectPage -->
+        <test-method signature="searchSeleniumArticle_shouldHaveExactTitle()[pri:0, instance:mobile.tests.WikipediaMobileTests@23986957]" started-at="2025-12-17T10:31:16 MSK" name="searchSeleniumArticle_shouldHaveExactTitle" description="Поиск статьи &#039;Selenium (software)&#039; и проверка точного заголовка" finished-at="2025-12-17T10:36:38 MSK" duration-ms="322704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchSeleniumArticle_shouldHaveExactTitle -->
+        <test-method is-config="true" signature="tearDownMobileDriver()[pri:0, instance:mobile.tests.WikipediaMobileTests@23986957]" started-at="2025-12-17T10:36:38 MSK" name="tearDownMobileDriver" finished-at="2025-12-17T10:36:39 MSK" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMobileDriver -->
+      </class> <!-- mobile.tests.WikipediaMobileTests -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

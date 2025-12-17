@@ -1,0 +1,11 @@
+/home/vladimir/Учеba/auto_tests/src/test/java/config/TestConfig.java
+/home/vladimir/Учеba/auto_tests/src/test/java/mobile/base/MobileTestBase.java
+/home/vladimir/Учеba/auto_tests/src/test/java/mobile/pages/WikipediaArticlePage.java
+/home/vladimir/Учеba/auto_tests/src/test/java/mobile/pages/WikipediaSearchPage.java
+/home/vladimir/Учеba/auto_tests/src/test/java/mobile/tests/WikipediaMobileTests.java
+/home/vladimir/Учеba/auto_tests/src/test/java/web/base/WebTestBase.java
+/home/vladimir/Учеba/auto_tests/src/test/java/web/pages/CheckBoxPage.java
+/home/vladimir/Учеba/auto_tests/src/test/java/web/pages/ElementsPage.java
+/home/vladimir/Учеba/auto_tests/src/test/java/web/pages/HomePage.java
+/home/vladimir/Учеba/auto_tests/src/test/java/web/pages/TextBoxPage.java
+/home/vladimir/Учеba/auto_tests/src/test/java/web/tests/DemoQaWebTests.java

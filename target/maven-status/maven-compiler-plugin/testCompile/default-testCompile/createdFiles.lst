@@ -1,0 +1,11 @@
+web/pages/TextBoxPage.class
+web/pages/CheckBoxPage.class
+web/base/WebTestBase.class
+mobile/pages/WikipediaSearchPage.class
+mobile/tests/WikipediaMobileTests.class
+web/pages/ElementsPage.class
+config/TestConfig.class
+web/pages/HomePage.class
+web/tests/DemoQaWebTests.class
+mobile/pages/WikipediaArticlePage.class
+mobile/base/MobileTestBase.class
